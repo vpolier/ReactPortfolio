@@ -1,0 +1,19 @@
+.button-container{
+    margin:2px;
+}
+.btn{
+    background-color: cornflowerblue;
+    color:white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.purple{
+    background-color: purple;
+}
